@@ -1,6 +1,5 @@
 const playerName = document.querySelector("#name");
 const playerLastName = document.querySelector("#lastname");
-const addedPlayer = document.querySelector(".addedName");
 const ul = document.createElement("ul");
 const main = document.querySelector("main");
 const cleanInputs = document.querySelectorAll("#name, #lastname");
